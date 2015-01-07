@@ -6,8 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Blackjack {
-
-    //private int player2Bet;
+    //yays
     private double playerBet;
     private Queue<Card> deck = new LinkedList<Card>();
     private LinkedList<Card> dealerHand = new LinkedList<Card>();
